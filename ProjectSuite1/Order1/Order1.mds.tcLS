@@ -20,15 +20,17 @@
 <Nodes version="1">
 	<Node name="root">
 		<Node name="data">
-			<Node name="{a382bbcd-c8e6-4917-b3b9-c484d9e81cd2}">
-				<Prp name="relpath" type="S" value="Order1\Order1.mds.tcLS"/>
+			<Node name="{083c262b-f9a0-435c-82ce-1320ce751b9d}">
+				<Node name="{1b52deb4-a5e0-4499-b904-c8a8f1d04db5}">
+					<Prp name="filepath" type="S" value="C:\Documents and Settings\All Users\Documents\TestComplete 7 Samples\Open Apps\OrdersDemo\C#\bin\Debug\"/>
+				</Node>
 			</Node>
 			<Node name="logs">
-				<Prp name="key" type="S" value="{FEAA49FB-DD79-4849-8FE4-264165DE536F}"/>
+				<Prp name="key" type="S" value="{F03E5A41-2A85-4412-88AE-F052A8D7C5A3}"/>
 				<Prp name="relpath" type="S" value="Log"/>
 			</Node>
 			<Node name="variables"/>
 		</Node>
-		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+		<Prp name="signature" type="S" value="{49FC0C30-9EF7-4DBD-97A8-B7A00E79A2AF}"/>
 	</Node>
 </Nodes>

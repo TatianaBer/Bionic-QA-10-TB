@@ -19,16 +19,14 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="data">
-			<Node name="{a382bbcd-c8e6-4917-b3b9-c484d9e81cd2}">
-				<Prp name="relpath" type="S" value="Order1\Order1.mds.tcLS"/>
-			</Node>
-			<Node name="logs">
-				<Prp name="key" type="S" value="{FEAA49FB-DD79-4849-8FE4-264165DE536F}"/>
-				<Prp name="relpath" type="S" value="Log"/>
-			</Node>
-			<Node name="variables"/>
+		<Node name="child list"/>
+		<Node name="folders">
+			<Node name="folders"/>
 		</Node>
-		<Prp name="signature" type="S" value="{71078212-FAEB-4856-A901-B237C89E6B5C}"/>
+		<Node name="settings">
+			<Prp name="settingsversion" type="S" value="7.50"/>
+		</Node>
+		<Prp name="signature" type="S" value="{70FC6ED0-A122-4A26-9B64-EDDBB2F11A49}"/>
+		<Prp name="version" type="S" value="7.0"/>
 	</Node>
 </Nodes>

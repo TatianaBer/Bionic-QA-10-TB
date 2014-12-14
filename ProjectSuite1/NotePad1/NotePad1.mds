@@ -82,13 +82,13 @@
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 		</Node>
 		<Node name="files">
+			<Node name="[kma-tst-trainee]\notepad1.mds.tcls"/>
 			<Node name="events\events.tcax"/>
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="namemapping\namemapping.tcnm"/>
 			<Node name="notepad1.mds"/>
-			<Node name="notepad1.mds.tcls"/>
 			<Node name="script\script.tcscript"/>
-			<Node name="script\unit1.sj"/>
+			<Node name="script\unit2.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
 			<Node name="stores\objects.tcobjects"/>

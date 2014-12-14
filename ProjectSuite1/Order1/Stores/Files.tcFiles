@@ -19,7 +19,59 @@
 ]>
 <Nodes version="1">
 	<Node name="root">
-		<Node name="child list"/>
+		<Node name="child list">
+			<Node name="item0000000000">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="7.50"/>
+					</Node>
+					<Prp name="caption" type="S" value="DOC.txt"/>
+					<Prp name="filename" type="S" value="Files\DOC.txt"/>
+					<Prp name="id" type="S" value="{01A516BA-4C1D-48E4-A11B-6164369E55E6}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="7.0"/>
+				</Node>
+				<Prp name="index" type="I" value="0"/>
+				<Prp name="key" type="S" value="{01A516BA-4C1D-48E4-A11B-6164369E55E6}"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000001">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="7.50"/>
+					</Node>
+					<Prp name="caption" type="S" value="DOC1.txt"/>
+					<Prp name="filename" type="S" value="Files\DOC.txt"/>
+					<Prp name="id" type="S" value="{549F3B12-AB6E-4B93-8D16-C76EE3D01B85}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="7.0"/>
+				</Node>
+				<Prp name="index" type="I" value="1"/>
+				<Prp name="key" type="S" value="{549F3B12-AB6E-4B93-8D16-C76EE3D01B85}"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+			<Node name="item0000000002">
+				<Node name="item data">
+					<Node name="settings">
+						<Prp name="settingsversion" type="S" value="7.50"/>
+					</Node>
+					<Prp name="caption" type="S" value="Doc2.txt"/>
+					<Prp name="filename" type="S" value="Files\Doc2.txt"/>
+					<Prp name="id" type="S" value="{67D4E1B4-E28D-44CB-B484-85950C46FE2F}"/>
+					<Prp name="signature" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+					<Prp name="update" type="B" value="0"/>
+					<Prp name="version" type="S" value="7.0"/>
+				</Node>
+				<Prp name="index" type="I" value="2"/>
+				<Prp name="key" type="S" value="{67D4E1B4-E28D-44CB-B484-85950C46FE2F}"/>
+				<Prp name="type" type="S" value="{FC92F8D9-8A57-4D74-B8B4-479AA50BF647}"/>
+				<Prp name="typename" type="S" value="File"/>
+			</Node>
+		</Node>
 		<Node name="folders">
 			<Node name="folders"/>
 		</Node>

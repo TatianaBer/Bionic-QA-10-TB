@@ -1,0 +1,6 @@
+ProductNames, Quantity, CardType, Discount, Date, Customer, Street, State, City, Zip, CardNo, ExpDate   
+FamilyAlbum, 1, MasterCard, 5, 5/7/2013, Red Ben, Street, State, City, 11111, 000100020000300004, 5/7/2018
+MyMoney, 2, MasterCard, 7, 5/1/2013, Black Ben, Street, State, City, 22222, 111111111111, 5/1/2020
+Screensaver, 3, MasterCard, 13, 20/10/2013, Green Ben, Street, State, City, 33333, 222222222222, 20/10/2015
+MyMoney, 4, MasterCard, 11, 3/3/2012, White Ben, Street, State, City, 44444, 333333333333, 5/1/2017
+FamilyAlbum, 5, MasterCard, 25, 15/9/2010, Snow Ben, Street, State, City, 55555, 444444444444, 5/9/2025

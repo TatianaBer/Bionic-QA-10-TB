@@ -82,15 +82,17 @@
 			<Prp name="language" type="S" value="{E42909F2-4390-4F5D-94B8-FABF59BABFCE}"/>
 		</Node>
 		<Node name="files">
+			<Node name="..\[kma-tst-trainee]\order1\order1.mds.tcls"/>
 			<Node name="events\events.tcax"/>
 			<Node name="keywordtests\keywordtests.tckdt"/>
 			<Node name="namemapping\namemapping.tcnm"/>
 			<Node name="order1.mds"/>
-			<Node name="order1.mds.tcls"/>
 			<Node name="script\script.tcscript"/>
 			<Node name="script\unit1.sj"/>
 			<Node name="stores\dbtables\dbtables.tcdb"/>
 			<Node name="stores\files.tcfiles"/>
+			<Node name="stores\files\doc.txt"/>
+			<Node name="stores\files\doc2.txt"/>
 			<Node name="stores\objects.tcobjects"/>
 			<Node name="stores\regions.tcregions"/>
 			<Node name="stores\stores.tcstores"/>
@@ -1591,24 +1593,7 @@
 				</Node>
 				<Node name="item0000000004">
 					<Node name="child list"/>
-					<Node name="test parameters">
-						<Node name="param0">
-							<Prp name="index" type="I" value="0"/>
-							<Prp name="localvarname" type="S" value=""/>
-							<Prp name="name" type="S" value="newName"/>
-							<Prp name="type" type="I" value="3"/>
-							<Prp name="value" type="S" value=""/>
-							<Prp name="vartype" type="I" value="0"/>
-						</Node>
-						<Node name="param1">
-							<Prp name="index" type="I" value="1"/>
-							<Prp name="localvarname" type="S" value=""/>
-							<Prp name="name" type="S" value="data"/>
-							<Prp name="type" type="I" value="3"/>
-							<Prp name="value" type="S" value=""/>
-							<Prp name="vartype" type="I" value="0"/>
-						</Node>
-					</Node>
+					<Node name="test parameters"/>
 					<Prp name="count" type="I" value="1"/>
 					<Prp name="description" type="S" value=""/>
 					<Prp name="enabled" type="B" value="-1"/>

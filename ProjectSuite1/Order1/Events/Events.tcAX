@@ -194,7 +194,7 @@
 		</Node>
 		<Node name="config">
 			<Prp name="node name" type="S" value="Events"/>
-			<Prp name="tlbhistory" type="S" value=""/>
+			<Prp name="tlbhistory" type="S" value="&quot;TestComplete general events&quot;"/>
 		</Node>
 		<Node name="folders">
 			<Node name="folders"/>

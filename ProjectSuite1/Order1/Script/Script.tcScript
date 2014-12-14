@@ -22,7 +22,7 @@
 		<Node name="child list">
 			<Node name="item0000000000">
 				<Node name="item data">
-					<Prp name="relpath" type="S" value="Unit1.sj"/>
+					<Prp name="relpath" type="S" value="Unit2.sj"/>
 				</Node>
 				<Prp name="index" type="I" value="0"/>
 				<Prp name="key" type="S" value="{0D99ACC6-5A3D-410B-8050-FB2178606793}"/>
